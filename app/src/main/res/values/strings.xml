@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="search_food_nearby">Search food nearby</string>
+    <string name="happy_deals">Happy deals</string>
+    <string name="rescued_food">Rescued food</string>
+    <string name="a">html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6ss, big, cite, code, del, dfn, em,</string>
+    <string name="saving_food_and_hunger">Saving food and Hunger</string>
+    <string name="relish_a_big_binge_with_our_best_offers">Relish a big binge with our best offers.</string>
+    <string name="laaaarge_discounts">LAAAARGE DISCOUNTS</string>
+    <string name="exclusive_on_fastfood">Exclusive on Fastfood</string>
+    <string name="up_to_30_off">UP TO 30 % OFF</string>
+    <string name="q">on KFC</string>
+    <string name="home">Home</string>
+    <string name="_21_22_23_asdasdasdasd">21-22-23-asdasdasdasd</string>
 </resources>
